@@ -77,6 +77,10 @@ Remove duplication, improve names, extract helpers. No new behavior.
 
 Next scenario → next failing test.
 
+## Post-TDD Review
+
+Post-TDD review uses two independent subagents: one runs code review with `requesting-code-review`, and one runs blind test review with `reviewing-unit-tests`.
+
 ## BDD Test Structure (Mandatory)
 
 - `describe` → context/scenario, `it`/`test` → behavior assertion
