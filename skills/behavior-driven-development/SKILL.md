@@ -1,6 +1,6 @@
 ---
 name: behavior-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: "Use when implementing any feature or bugfix, before writing implementation code. Triggered by keywords: TDD, BDD, test-first, test-driven, write-test-first"
 ---
 
 # Behavior-Driven Development (BDD)
