@@ -94,5 +94,5 @@ Agents refactor aggressively. Unit tests tied to internal methods break every ti
 
 ## Contents
 
-- [`SKILL.md`](./SKILL.md) — BDD development workflow (Red-Green-Refactor, contract-first, scenario-driven)
-- [`testing-anti-patterns.md`](./testing-anti-patterns.md) — Testing anti-patterns reference (7 common mistakes with Gate Functions)
+- [`SKILL.md`](./skills/behavior-driven-development/SKILL.md) — BDD development workflow (Red-Green-Refactor, contract-first, scenario-driven)
+- [`testing-anti-patterns.md`](./skills/behavior-driven-development/testing-anti-patterns.md) — Testing anti-patterns reference (7 common mistakes with Gate Functions)

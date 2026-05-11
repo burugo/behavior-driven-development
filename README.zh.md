@@ -94,5 +94,5 @@ Agent 重构很激进。每次 Agent 重整内部结构，与内部方法绑定�
 
 ## 本仓库内容
 
-- [`SKILL.md`](./SKILL.md) — BDD 开发流程指南（Red-Green-Refactor、契约优先、场景驱动）
-- [`testing-anti-patterns.md`](./testing-anti-patterns.md) — 测试反模式参考手册（7 种常见错误及 Gate Function）
+- [`SKILL.md`](./skills/behavior-driven-development/SKILL.md) — BDD 开发流程指南（Red-Green-Refactor、契约优先、场景驱动）
+- [`testing-anti-patterns.md`](./skills/behavior-driven-development/testing-anti-patterns.md) — 测试反模式参考手册（7 种常见错误及 Gate Function）
